@@ -1,0 +1,9 @@
+select option[value=""], select option[value="0"]{
+	color: gray;
+}
+select[value=""], select[value="0"]{
+	color: red;
+}
+option {
+	color: #000;
+}
